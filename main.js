@@ -130,10 +130,10 @@ window.onload = function() {
  
        if (state.amount.balanceAmt < 0) {
           balance.classList.remove("clr-green");
-          balance.classList.add("clr-blue");
+          balance.classList.add("clr-red");
        } else {
           balance.classList.remove("clr-red");
-          balance.classList.add("clr-blue");
+          balance.classList.add("clr-green");
        }
     }
  
