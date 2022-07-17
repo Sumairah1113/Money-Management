@@ -5,7 +5,7 @@ Money Management App Prototype to keep track of your expenses. [Live Demo](https
 
 ## Introduction
 
-It is a practice project to apply the javascript skills I learned. Aim was to create a frontend application with full CRUD functionality. I helped me to collect and apply the knowledge I gained from tutorials and books.
+This is a project for college, where i used the languages javascript, css, and html. Aim was to create a frontend application with full CRUD functionality. I helped me to collect and apply the knowledge I gained from tutorials and books.
 
 Includes:
 
